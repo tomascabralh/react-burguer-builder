@@ -49,4 +49,6 @@ removeIngredientHandler = ( type ) => {
   }
 }
 
+// test
+
 export default BurgerBuilder;

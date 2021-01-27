@@ -3,7 +3,6 @@ import styles from './Layout.module.css'
 import Auxiliary from '../Auxiliary/Auxiliary'
 import Toolbar from '../../components/Navigation/Toolbar/Toolbar'
 import SideDrawer from '../../components/Navigation/Sidedrawer/Sidedrawer'
-import { render } from '@testing-library/react'
 
 class Layout extends Component {
     state = {
